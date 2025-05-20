@@ -11,7 +11,7 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/andre
 ### Tools
 
 - Language: SQL, Python (Pandas, Numpy, Matplotlib, Seaborn)
-- Database: MySQL
+- Database: MySQL, Microsoft SQL
 - Visualization: Tableau, Power BI
 
 ### Contact Me
